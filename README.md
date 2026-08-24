@@ -2,6 +2,7 @@
 A Python project that evaluates the strength of a password based on common security criteria. The program checks a password for characteristics such as length, uppercase letters, lowercase letters, numbers, and special characters, then provides feedback about its overall strength. This project is intended for educational purposes.
 
 #Project Objective
+
 The purpose of this project is to understand basic password security concepts while practicing Python programming fundamentals.
 This project demonstrates the use of:
 - Variables
@@ -28,9 +29,11 @@ This project demonstrates the use of:
 - Regular Expressions
 
 #How It Works
+
 The program takes a password from the user and evaluates it against several security criteria. A password receives a stronger assessment when it satisfies more of the security requirements.
 
 #Security Concepts
+
 This project introduces several basic cybersecurity concepts.
 
 1.Password Complexity- Passwords containing different character types generally have a larger possible search space than simple passwords.
@@ -42,6 +45,7 @@ This project introduces several basic cybersecurity concepts.
 4.Common Passwords- Passwords such as commonly used words, names, dates, or predictable patterns can be easier to guess.
 
 #What I Learned
+
 Through this project, I practiced:
 - Python programming fundamentals
 - Working with strings
@@ -52,3 +56,7 @@ Through this project, I practiced:
 - Basic password-security concepts
 - Using Git and GitHub
 - Documenting a software project
+
+#Screenshots
+
+The added screenshot shows the successful working of the project.
